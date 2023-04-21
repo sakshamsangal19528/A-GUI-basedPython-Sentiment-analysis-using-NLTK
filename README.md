@@ -1,4 +1,4 @@
-# A-GUI-basedPython-Sentiment-analysis-using-NLTK
+# A-GUI-based Python-Sentiment-analysis-using-NLTK
 
 The GUI-based sentiment analysis project using Python, NLTK, and Matplotlib is a program that takes a "review" dataset and returns the sentiment analysis of the text. The program has a user-friendly interface that allows the user to enter any text, and then the program uses the Natural Language Toolkit (NLTK) library to analyze the text and determine the sentiment. The sentiment analysis is done using the VADER (Valence Aware Dictionary and sEntiment Reasoner) tool, which is a rule-based sentiment analysis tool specifically designed for social media text.
 
